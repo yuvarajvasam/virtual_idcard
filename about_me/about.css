@@ -1,0 +1,64 @@
+.section1{
+      width: 50vw;
+      height: 100vh;
+      background-color:rgba(186, 185, 185, 0.245);
+}
+.section1-info{
+      margin-top: 100px;
+      
+}
+.profilepic{
+      width: 250px;
+      margin-bottom: 30px;
+}
+.icons{
+
+      width: 45px;
+      margin: 18px;
+}
+.name{
+
+      font-size:45px;
+      font-weight: 500;
+}
+.work{
+      font-size: 18px;
+      font-weight: 400;
+}
+.button{
+      width: 200px;
+      padding: 7px;
+      background-color:rgba(0, 0, 0, 0.873);
+      border-style: none;
+      color: white;
+      margin: 40px;
+}
+.section2{
+      width: 50vw;
+      height: 100vh;
+      background-color: rgba(255, 255, 255, 0.36);
+
+}
+.section2-info{
+      margin: 100px 50px 0px 50px;
+
+}
+.info-head{
+      font-size: 55px;
+      margin-bottom: 20px;
+}
+.info-para{
+      font-size:large;
+      font-weight: 300;
+      margin-bottom: 125px;
+}
+
+
+
+
+
+
+
+
+
+

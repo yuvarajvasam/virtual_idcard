@@ -1,0 +1,54 @@
+.background{
+      margin-top: 6%;
+}
+.bg-image{
+      border-radius: 5px;
+      border-style: solid;
+      background-size: cover;
+      width:350px;
+      height:600px;
+      max-height: 600px;
+      background-image: url(/virtual_idcard/background.png);
+}
+.bg-content{
+      text-align: center;
+      margin-top: 45px;
+}
+.bg-content-group{
+      font-size:38px;
+      font-weight: 550;
+}
+.dp-img{
+      width: 115px;
+      margin:10px;
+}
+.bg-content-name{
+      font-size: 28px;
+      font-weight:550;
+      margin: 5px;
+}
+.bg-content-dob{
+      font-size: 18px;
+      font-weight:500;
+}
+.bg-content-branch{
+      font-size:25px;
+      font-weight: 550;
+      margin: 5px;
+}
+.bg-content-year{
+      font-size: 18px;
+      font-weight:500;
+}
+.button{
+      width: 145px;
+      padding: 5px;
+      background-color: #e22737e2;
+      border-radius: 5px;
+      border-style: none;
+      color: white;
+}
+.qrcode{
+      width: 110px;
+      margin-top: 10px;
+}
