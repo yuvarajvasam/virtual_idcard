@@ -19,8 +19,15 @@ The **Virtual Identity Card** is a digital ID card for individuals, created with
 - **Social Media Integration**: Displays icons for quick links to your social profiles.
 
 ## 📸 Preview
-Here's a preview of the Virtual Identity Card:
-*(Add a screenshot here to showcase the design)*
+Here’s a preview of the Virtual Identity Card:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshot_1.png" width="300">
+  <img src="screenshot_2.png" width="300">
+  <img src="screenshot_3.png" width="300">
+</div>
+
+
 
 ## 📁 Project Structure
 
