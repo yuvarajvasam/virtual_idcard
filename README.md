@@ -22,9 +22,9 @@ The **Virtual Identity Card** is a digital ID card for individuals, created with
 Here’s a preview of the Virtual Identity Card:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="screenshot_1.png" width="300">
-  <img src="screenshot_2.png" width="300">
-  <img src="screenshot_3.png" width="300">
+  <img src="screenshot_1.png" height="300">
+  <img src="screenshot_2.png" height="300" width="400">
+  <img src="screenshot_3.png" height="300" width="400">
 </div>
 
 
